@@ -19,7 +19,11 @@ libraries (dedicated to networks) of various programming languages. The most pop
 for Python. This library contains existing link prediction modules but they are very poor and contain
 a small number of similarity measures offered for calculations and only for undirected networks.
 
-<b> NX_Link_Prediction_KO module is carried out within the project CyberSummer@WUT-3 | POB Research Centre Cybersecurity and Data Science of Warsaw University of Technology.</b>
+<b> NX_Link_Prediction_KO</b> module is carried out as part of the project:
+
+<p align = "center"><i>Exploration and implementation of link prediction methods for various types of tie asymmetry in complex networks</i></p>
+
+realized within CyberSummer@WUT-3 competition | POB Research Centre Cybersecurity and Data Science of Warsaw University of Technology.
 
 The efforts were made to extend the currently existing Link Prediction [5] module of the NetworkX library. The
 module was implemented and made publicly available, compatible with the one present in the library,
